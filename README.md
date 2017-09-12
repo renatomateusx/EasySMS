@@ -1,4 +1,4 @@
-# EasySMS
+# EasySMS API para WhatsApp e SMS
 Envio de SMS e WhatsApp em massa.
 Para utilizar, precisa estar cadastrado. Envie um e-mail para renatomateusx@gmail.com com o assunto: "EasySMS - Solicitação de Cadastro" e solicite cadastro enviando os seguintes dados:
 Nome;
