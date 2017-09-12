@@ -13,6 +13,10 @@ Para testar o serviço acesse: www.rmsoluts.info e clique no botão verde para s
 # Para Maiores Informações, por favor, consulte a nossa documentação em PDF.
 
 
+# Método sendo implementado:
+* verificação das respostas dos SMS e WhatsApp
+
+
 # EasySMS
 Send bulk SMS and WhatsApp.
 To use, you must be registered. Send an email to renatomateusx@gmail.com with the subject "EasySMS - Request registration" and request registration by sending the following data:
@@ -27,9 +31,6 @@ To test the service access: www.rmsoluts.info and click on the green button to b
 # More informations, please, read the PDF documentation. The documentation is in Portuguese (PT-BR)
 
 
-
-# Método sendo implementado:
-* verificação das respostas dos SMS e WhatsApp
 
 
 # Method being implemented:
