@@ -23,5 +23,5 @@ Quantity that is using the file per month; and
 Email;
 To test the service access: www.rmsoluts.info and click on the green button to be redirected.
 * The Users only can send messages to whatsapp. You have to pay to send SMS.
-* The Whatasapp send is free.
+* The send for Whatsapp is free.
 # More informations, please, read the PDF documentation.
