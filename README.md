@@ -13,7 +13,7 @@ Email;
 Send bulk SMS and WhatsApp.
 To use, you must be registered. Send an email to renatomateusx@gmail.com and request registration by sending the following data:
 Name;
-CPF or CNPJ;
+Registration Number (like CPF or Business identification Number);
 Get in;
 Quantity that is using the file per month; and
 Email;
