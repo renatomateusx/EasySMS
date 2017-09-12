@@ -14,7 +14,7 @@ Send bulk SMS and WhatsApp.
 To use, you must be registered. Send an email to renatomateusx@gmail.com with the subject "EasySMS - Request registration" and request registration by sending the following data:
 Name;
 Registration Number (like CPF or Business identification Number);
-Get in;
+Username;
 Quantity that is using the file per month; and
 Email;
 # More informations, please, read the PDF documentation.
