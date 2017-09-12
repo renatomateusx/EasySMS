@@ -25,3 +25,12 @@ To test the service access: www.rmsoluts.info and click on the green button to b
 * The Users only can send messages to whatsapp. You have to pay to send SMS.
 * The send for Whatsapp is free.
 # More informations, please, read the PDF documentation. The documentation is in Portuguese (PT-BR)
+
+
+
+# Método sendo implementado:
+* verificação das respostas dos SMS e WhatsApp
+
+
+# Method being implemented:
+* check the anwsers about the sent SMS and WhasApp
