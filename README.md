@@ -9,6 +9,7 @@ Email;
 
 Para testar o serviço acesse: www.rmsoluts.info e clique no botão verde para ser redirecionado.
 * Os usuários apenas poderão enviar mensagens para Whatsapp, é preciso pagar para enviar SMS.
+* O envio para Whatsapp é gratuito.
 # Para Maiores Informações, por favor, consulte a nossa documentação em PDF.
 
 
@@ -22,4 +23,5 @@ Quantity that is using the file per month; and
 Email;
 To test the service access: www.rmsoluts.info and click on the green button to be redirected.
 * The Users only can send messages to whatsapp. You have to pay to send SMS.
+* The Whatasapp send is free.
 # More informations, please, read the PDF documentation.
